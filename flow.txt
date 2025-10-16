@@ -1,0 +1,12 @@
+vpcs: vpc, peering conn
+
+subnets: subnets, az, igw, natgw
+
+rtb: rtb, rtb assoc, resources assoc
+
+sg: sg for ec2, db
+
+ec2: ec2, target grp,
+
+rds: rds
+
